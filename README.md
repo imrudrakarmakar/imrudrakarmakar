@@ -5,10 +5,12 @@
 **Talking about Personal Stuffs:**
 
 * :man_student: Student of Computer Science and Engineering at Techno India University, West Bengal
-* :computer: Full Stack Web Developer, Graphics Designer, Video Editor
+* :computer: Web Developer, Graphics Designer, Video Editor
 * :globe_with_meridians: Trying to Make Web Pages and Websites
 * :open_book: Learning Backend Web Development
 * :cry: Strugling with Computer Graphics 
+* 👬 I’m looking to collaborate with other content creators
+* 🥅 2021 Goals: Contribute more to Open Source projects
 * :tv: Loves to see Web series and Movies. Fan of Iron-Man.
 
 
