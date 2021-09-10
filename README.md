@@ -29,22 +29,29 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-### Connect with me:
+<!-- ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 
-<br />
+### Let's Connect :coffee:
+<p>
+	<a href="https://github.com/imrudrakarmakar"><img height=50 src="./images/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/rudrakarmakar/"><img height=50 src="./images/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://instagram.com/rudrakarmakar_/"><img height=50 src="./images/instagram.png" alt="instagram"/></a>
+	<a href="https://twitter.com/rudrakarmakar_"><img height=50 src="./images/twitter.png" alt="Twitter"/></a>
+  <a href="https://discordapp.com/users/rudrakarmakar#6395/"><img height=50 src="./images/discord.png" alt="Discord"/></a>
+</p>
 
 <br>![Rudra's github stats](https://github-readme-stats.vercel.app/api?username=imrudrakarmakar&show_icons=true&theme=tokyonight)
 
 ⭐️ From [imrudrakarmakar](https://github.com/imrudrakarmakar)
 
-[website]: https://rudrakarmakar.netlify.app/
-[twitter]: https://twitter.com/RudraKarmakar18
+<!-- [website]: https://rudrakarmakar.netlify.app/
+[twitter]: https://twitter.com/rudrakarmakar_
 [youtube]: https://www.youtube.com/c/RudraKarmakar/
 [instagram]: https://instagram.com/rudrakarmakar_
-[linkedin]: https://www.linkedin.com/in/rudrakarmakar
+[linkedin]: https://www.linkedin.com/in/rudrakarmakar -->
