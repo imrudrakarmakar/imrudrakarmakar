@@ -50,8 +50,8 @@
 
 ⭐️ From [imrudrakarmakar](https://github.com/imrudrakarmakar)
 
-<!-- [website]: https://rudrakarmakar.netlify.app/
-[twitter]: https://twitter.com/rudrakarmakar_
+[website]: https://rudrakarmakar.netlify.app/
+<!-- [twitter]: https://twitter.com/rudrakarmakar_
 [youtube]: https://www.youtube.com/c/RudraKarmakar/
 [instagram]: https://instagram.com/rudrakarmakar_
 [linkedin]: https://www.linkedin.com/in/rudrakarmakar -->
