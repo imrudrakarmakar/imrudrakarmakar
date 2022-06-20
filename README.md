@@ -4,13 +4,13 @@
 
 **Talking about Personal Stuffs:**
 
-* :man_student: Student of Computer Science and Engineering at Techno India University, West Bengal
-* :computer: Web Developer, Graphics Designer, Video Editor
-* :globe_with_meridians: Trying to Make Web Pages and Websites
+* :man_student: Student of Computer Science and Engineering at TIU, WB
+* :computer: Salesforce Developer, Web Enthusiastic, Graphics Designer, Video Editor
+* :globe_with_meridians: Trying to Make Content on Marketing
 * :open_book: Learning Backend Web Development
 * :cry: Strugling with Computer Graphics 
 * 👬 I’m looking to collaborate with other content creators
-* 🥅 2021 Goals: Contribute more to Open Source projects
+* 🥅 2022 Goals: Contribute more to Open Source projects
 * :tv: Loves to see Web series and Movies. Fan of Iron-Man.
 
 
